@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+
+# production
+/build
+
+
+# hidden files/folders
+.*
+!/.gitignore
